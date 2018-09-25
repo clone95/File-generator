@@ -10,5 +10,5 @@ In this way i just have to type the namen and press enter, instead of:
                                                                           - type the name
                                                                           - press enter
 
-so, for example if i have to generate  50 different files, i justa have 50*2 = 100 steps, instead of 50 * 5 250 steps
+so, for example if i have to generate  50 different files, i just have 50*2 = 100 steps, instead of 50 * 5 = 250 steps
                                                                          
