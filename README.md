@@ -2,7 +2,7 @@
 A faster way to generate new multiple files from command line
 
 Having the need of re-organize university notes, i wrote a simple script to automate some parts of the creation of files.
-In this way i just have to type the namen and press enter, instead of:
+In this way i just have to type the name and press enter, instead of:
 
                                                                           - right click
                                                                           - new
